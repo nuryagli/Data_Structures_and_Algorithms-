@@ -1,4 +1,4 @@
-# Data_Structures_and_Algorithms-
+# Data_Structures_and_Algorithms
 - Selection Sort
 ![SelectionShort png](https://github.com/nuryagli/Data_Structures_and_Algorithms-/assets/102666235/d7213838-5e02-4066-bc82-a9ef7b839488)
 
