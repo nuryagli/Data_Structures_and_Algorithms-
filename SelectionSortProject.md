@@ -26,3 +26,12 @@ In the final step, we compare the sixth element (6) with the previous elements (
 The time complexity of Insertion Sort for the given array [22, 27, 16, 2, 18, 6] is O(n^2). After the array is sorted, the position of the number 18 falls into the Average case scenario.
 
  Average case scenario: The average case refers to the situation where the target number is located somewhere in the middle of the sorted array. In this case, the algorithm would need to traverse through a portion of the array to find the target number.
+ 
+ ---
+ 
+# [7,3,5,8,2,9,4,15,6] -> Selection Sort(first four steps)
+
+1. [2,3,5,8,7,9,4,15,6]
+2. [2,3,5,8,7,9,4,15,6]
+3. [2,3,4,8,7,9,5,15,6]
+4. [2,3,4,5,7,9,8,15,6]
